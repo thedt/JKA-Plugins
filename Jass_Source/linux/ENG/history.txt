@@ -1,0 +1,46 @@
+v 3.1.0
+ - Vulnerability in q3dirtavfix fixed.
+ - Added fix of Server command overflow.
+ - Line breaks in names and chat fixed.
+
+v 3.0.0
+ - Increased the effectivity of the protection against DDoS attacks:
+ -- Removed support for IPX
+ -- List is replaced with static array. The number of bans is limited to 512.
+ -- Optimized the list cleaning, time calculations, changed recording format, and so on.
+ -- Added a ban through the script.
+ - Added an interface to ban using JASS.
+ - Added a ban of IP range.
+ - Reduced aggressiveness of jazz, so players will no longer be banned.
+ - Added Easter egg.
+ - Changed plugin interface - added functions to interact with each other plugins.
+ - Fixed vulnerabilities, bugs, performed overall optimization.
+ - jassconfig.cfg executes before plugins load.
+ - Logs was improved, added new output method.
+ - q3fill is now banned by JASS method, not default one.
+
+v 2.0.1
+ - Connectionless packets limit reduced.
+ - Code optimized, fixed bad IP detection.
+ - Fixed false antiddos alarm.
+ - Fixed DDoS single vulnerability.
+ - Fixed protection against Infobof.
+
+v 2.0.0
+ - New bugfix method. Many bugs fixed.
+ - Protection against DDoS added
+
+v 1.0.3
+ - Fixed new jka bug
+
+v 1.0.2
+ - Fixed error storing Protection.dat
+ - Changed plugin interface
+
+v 1.0.1
+ - Fixed AntiFake
+ - Fixed log issue
+ - Fixed Source Code
+
+v 1.0
+ - First Version

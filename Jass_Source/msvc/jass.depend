@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1253171800 source:e:\games\jedi academy\qmm разработка плагинов\jass\msvc\jass.rc
+	"resource.h"
+	"afxres.h"
+
+1127306352 e:\games\jedi academy\qmm разработка плагинов\jass\msvc\resource.h
+
+1129129380 source:e:\games\jedi academy\qmm разработка плагинов\jass\cconfigmgr.cpp
+	<stddef.h>
+	"CConfigMgr.h"
+	"pdb.h"
+
+1129121878 e:\games\jedi academy\qmm разработка плагинов\jass\cconfigmgr.h
+	"osdef.h"
+	"pdb.h"
+
+1127232304 e:\games\jedi academy\qmm разработка плагинов\jass\osdef.h
+	<windows.h>
+	<dlfcn.h>
+	<limits.h>
+	<ctype.h>
+
+1109833564 e:\games\jedi academy\qmm разработка плагинов\jass\pdb.h
+
+1127509902 source:e:\games\jedi academy\qmm разработка плагинов\jass\cdll.cpp
+	"CDLL.h"
+	"osdef.h"
+	"util.h"
+
+1109833562 e:\games\jedi academy\qmm разработка плагинов\jass\cdll.h
+	<stddef.h>
+	"CLinkList.h"
+
+1109833562 e:\games\jedi academy\qmm разработка плагинов\jass\clinklist.h
+	<malloc.h>
+
+1260003915 e:\games\jedi academy\qmm разработка плагинов\jass\util.h
+
+1253171030 source:e:\games\jedi academy\qmm разработка плагинов\jass\cdllmod.cpp
+	<string.h>
+	"osdef.h"
+	"qmm.h"
+	"CModMgr.h"
+	"CEngineMgr.h"
+	"game_api.h"
+	"qmmapi.h"
+	"CDLL.h"
+	"CDLLMod.h"
+	"util.h"
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\qmm.h
+	"CEngineMgr.h"
+	"CModMgr.h"
+	"CPluginMgr.h"
+	"CConfigMgr.h"
+	"qmmapi.h"
+
+1253724090 e:\games\jedi academy\qmm разработка плагинов\jass\cenginemgr.h
+	"qmmapi.h"
+	"game_api.h"
+
+1138549738 e:\games\jedi academy\qmm разработка плагинов\jass\qmmapi.h
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\game_api.h
+
+1129121878 e:\games\jedi academy\qmm разработка плагинов\jass\cmodmgr.h
+	"osdef.h"
+	"CMod.h"
+	"game_api.h"
+	"qmmapi.h"
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\cmod.h
+	"osdef.h"
+
+1129121878 e:\games\jedi academy\qmm разработка плагинов\jass\cpluginmgr.h
+	"CPlugin.h"
+	"CLinkList.h"
+
+1127306352 e:\games\jedi academy\qmm разработка плагинов\jass\cplugin.h
+	<string.h>
+	"CDLL.h"
+	"qmmapi.h"
+	"osdef.h"
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\cdllmod.h
+	"osdef.h"
+	"CMod.h"
+	"CDLL.h"
+	"qmmapi.h"
+
+1268477037 source:e:\games\jedi academy\qmm разработка плагинов\jass\cenginemgr.cpp
+	<stddef.h>
+	<string.h>
+	"CEngineMgr.h"
+	"game_api.h"
+	"qmmapi.h"
+	"osdef.h"
+
+1254581319 source:e:\games\jedi academy\qmm разработка плагинов\jass\cmodmgr.cpp
+	<stddef.h>
+	<string.h>
+	"osdef.h"
+	"CConfigMgr.h"
+	"CEngineMgr.h"
+	"CModMgr.h"
+	"CMod.h"
+	"CDLLMod.h"
+	"CVMMod.h"
+	"game_api.h"
+	"util.h"
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\cvmmod.h
+	"CLinkList.h"
+	"osdef.h"
+	"CMod.h"
+	"qmm.h"
+	"qvm.h"
+
+1138542338 e:\games\jedi academy\qmm разработка плагинов\jass\qvm.h
+	"qmm.h"
+
+1253171028 source:e:\games\jedi academy\qmm разработка плагинов\jass\cplugin.cpp
+	"CPlugin.h"
+	"qmm.h"
+	"util.h"
+
+1253171027 source:e:\games\jedi academy\qmm разработка плагинов\jass\cpluginmgr.cpp
+	<stdlib.h>
+	"CEngineMgr.h"
+	"CPluginMgr.h"
+	"CPlugin.h"
+	"CModMgr.h"
+	"CLinkList.h"
+	"CConfigMgr.h"
+	"qmm.h"
+	"util.h"
+
+1253370294 source:e:\games\jedi academy\qmm разработка плагинов\jass\cvmmod.cpp
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	"osdef.h"
+	"CVMMod.h"
+	"CConfigMgr.h"
+	"qmm.h"
+	"util.h"
+
+1253724545 source:e:\games\jedi academy\qmm разработка плагинов\jass\game_api.cpp
+	<stddef.h>
+	"game_api.h"
+
+1109833564 source:e:\games\jedi academy\qmm разработка плагинов\jass\game_jka.cpp
+	<jka/game/q_shared.h>
+	<jka/game/g_public.h>
+	"game_api.h"
+
+1268476011 source:e:\games\jedi academy\qmm разработка плагинов\jass\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<io.h>
+	"CEngineMgr.h"
+	"CModMgr.h"
+	"CLinkList.h"
+	"CConfigMgr.h"
+	"osdef.h"
+	"game_api.h"
+	"qmmapi.h"
+	"qmm.h"
+	"util.h"
+	"version.h"
+
+1253171848 e:\games\jedi academy\qmm разработка плагинов\jass\version.h
+
+1129121878 source:e:\games\jedi academy\qmm разработка плагинов\jass\osdef.cpp
+	"osdef.h"
+	"version.h"
+
+1109836482 source:e:\games\jedi academy\qmm разработка плагинов\jass\pdb.c
+	<stdio.h>
+	"pdb.h"
+	<windows.h>
+	<dlfcn.h>
+
+1138542338 source:e:\games\jedi academy\qmm разработка плагинов\jass\plugin.cpp
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+	"CModMgr.h"
+	"qmm.h"
+	"qmmapi.h"
+	"util.h"
+	"CLinkList.h"
+
+1268478253 source:e:\games\jedi academy\qmm разработка плагинов\jass\util.cpp
+	<stdarg.h>
+	<io.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	"osdef.h"
+	"CLinkList.h"
+	"qmm.h"
+	"qvm.h"
+	"util.h"
+	<cctype>
+

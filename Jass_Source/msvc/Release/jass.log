@@ -1,0 +1,130 @@
+﻿  CConfigMgr.cpp
+  CDLL.cpp
+  CDLLMod.cpp
+..\CDLLMod.cpp(35): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\CDLLMod.cpp(49): warning C4458: declaration of 'file' hides class member
+  c:\users\gamer\documents\visual studio 2015\projects\jass_source\CDLLMod.h(44): note: see declaration of 'CDLLMod::file'
+..\CDLLMod.cpp(53): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  CEngineMgr.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\CEngineMgr.cpp(62): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  CModMgr.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  CPlugin.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\CPlugin.cpp(53): warning C4458: declaration of 'iscmd' hides class member
+  c:\users\gamer\documents\visual studio 2015\projects\jass_source\CPlugin.h(69): note: see declaration of 'CPlugin::iscmd'
+..\CPlugin.cpp(140): warning C4458: declaration of 'iscmd' hides class member
+  c:\users\gamer\documents\visual studio 2015\projects\jass_source\CPlugin.h(69): note: see declaration of 'CPlugin::iscmd'
+..\CPlugin.cpp(169): warning C4458: declaration of 'iscmd' hides class member
+  c:\users\gamer\documents\visual studio 2015\projects\jass_source\CPlugin.h(69): note: see declaration of 'CPlugin::iscmd'
+  CPluginMgr.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+  game_api.cpp
+  main.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\main.cpp(105): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(74): warning C4101: 'i': unreferenced local variable
+..\main.cpp(282): warning C4457: declaration of 'arg1' hides function parameter
+  ..\main.cpp(119): note: see declaration of 'arg1'
+..\main.cpp(282): warning C4457: declaration of 'arg2' hides function parameter
+  ..\main.cpp(119): note: see declaration of 'arg2'
+..\main.cpp(282): warning C4457: declaration of 'arg3' hides function parameter
+  ..\main.cpp(119): note: see declaration of 'arg3'
+..\main.cpp(394): warning C4459: declaration of 'temp' hides global declaration
+  ..\main.cpp(60): note: see declaration of 'temp'
+..\main.cpp(410): warning C4459: declaration of 'temp' hides global declaration
+  ..\main.cpp(60): note: see declaration of 'temp'
+..\main.cpp(499): warning C4456: declaration of 'command' hides previous local declaration
+  ..\main.cpp(495): note: see declaration of 'command'
+..\main.cpp(185): warning C4996: 'access': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _access. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h(439): note: see declaration of 'access'
+..\main.cpp(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\main.cpp(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\main.cpp(239): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\main.cpp(244): warning C4996: 'strnicmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strnicmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(579): note: see declaration of 'strnicmp'
+..\main.cpp(289): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(317): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(329): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(331): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(336): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(356): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(370): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(384): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(395): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+..\main.cpp(400): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(411): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+..\main.cpp(416): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(434): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(446): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(456): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(578): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+..\main.cpp(614): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\main.cpp(495): warning C4101: 'command': unreferenced local variable
+..\main.cpp(660): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  osdef.cpp
+  plugin.cpp
+  util.cpp
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka\game\bg_weapons.h(44): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(127): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\jka/game/g_local.h(446): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+..\util.cpp(276): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\util.cpp(294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+..\util.cpp(300): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+..\util.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\util.cpp(326): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+..\util.cpp(343): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(255): note: see declaration of 'strncat'
+..\util.cpp(460): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+c:\users\gamer\documents\visual studio 2015\projects\jass_source\util.cpp(351): warning C4715: 'log_write': not all control paths return a value
+  pdb.c
+osdef.obj : warning LNK4229: invalid directive '/COMMENT:JASS v3.2.0 (Win32)' encountered; ignored
+osdef.obj : warning LNK4229: invalid directive '/COMMENT:Built: 22:36:59 Jan 23 2016 by -1.#IND0000' encountered; ignored
+osdef.obj : warning LNK4229: invalid directive '/COMMENT:URL: http://jass.ucoz.com/' encountered; ignored
+     Creating library .\Release/jass.lib and object .\Release/jass.exp
+  jass.vcxproj -> C:\Users\Gamer\Documents\Visual Studio 2015\Projects\Jass_Source\msvc\.\Release\jass.dll
+  jass.vcxproj -> .\Release\jass.pdb (Full PDB)

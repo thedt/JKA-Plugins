@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="../CConfigMgr.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1931" topLine="81" />
+	</File>
+	<File name="../CConfigMgr.h" open="0" top="0" tabpos="0">
+		<Cursor position="92" topLine="0" />
+	</File>
+	<File name="../CDLLMod.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1585" topLine="49" />
+	</File>
+	<File name="../CEngineMgr.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="1513" topLine="48" />
+	</File>
+	<File name="../CEngineMgr.h" open="0" top="0" tabpos="0">
+		<Cursor position="712" topLine="8" />
+	</File>
+	<File name="../CModMgr.h" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="8" />
+	</File>
+	<File name="../CPlugin.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7000" topLine="166" />
+	</File>
+	<File name="../CPlugin.h" open="0" top="0" tabpos="0">
+		<Cursor position="443" topLine="13" />
+	</File>
+	<File name="../Makefile" open="1" top="0" tabpos="3">
+		<Cursor position="449" topLine="6" />
+	</File>
+	<File name="../game_api.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="16" />
+	</File>
+	<File name="../game_api.h" open="0" top="0" tabpos="0">
+		<Cursor position="1069" topLine="19" />
+	</File>
+	<File name="../jass.h" open="0" top="0" tabpos="0">
+		<Cursor position="792" topLine="4" />
+	</File>
+	<File name="../jass.ini" open="0" top="0" tabpos="2">
+		<Cursor position="1196" topLine="25" />
+	</File>
+	<File name="../main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="6558" topLine="192" />
+	</File>
+	<File name="../osdef.h" open="0" top="0" tabpos="3">
+		<Cursor position="1752" topLine="54" />
+	</File>
+	<File name="../pdb.c" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="54" />
+	</File>
+	<File name="../util.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="10706" topLine="444" />
+	</File>
+	<File name="../util.h" open="0" top="0" tabpos="0">
+		<Cursor position="718" topLine="3" />
+	</File>
+	<File name="../version.h" open="0" top="0" tabpos="0">
+		<Cursor position="835" topLine="21" />
+	</File>
+</CodeBlocks_layout_file>
